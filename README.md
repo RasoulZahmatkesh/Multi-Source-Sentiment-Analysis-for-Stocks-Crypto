@@ -30,39 +30,51 @@ This project builds an end-to-end AI pipeline capable of:
 The system is designed as a foundation for financial research, quantitative analysis, and AI-powered market monitoring.
 ---
 # System Architectur
+
+
   Data Sources
     ┌────────────┬────────────┬────────────┐
     │            │            │            │
  X/Twitter    Reddit      NewsAPI     Market Data
     │            │            │            │
     └────────────┴────────────┴────────────┘
-                 ↓
-          Data Processing Layer
+                         
+                 
+  ↓
+                 
+  Data Processing Layer
     - Text Cleaning
     - URL Removal
     - Mention Removal
     - Duplicate Filtering
-                 ↓
-          NLP Intelligence Layer
+                 
+  ↓
+  NLP Intelligence Layer
     Transformer Models
     - FinBERT
     - RoBERTa
     - DistilBERT
     - DeBERTa
-                 ↓
-         Sentiment Analysis Engine
+               
+                 
+   ↓
+  Sentiment Analysis Engine
     - Positive Classification
     - Neutral Classification
     - Negative Classification
     - Confidence Estimation
-                 ↓
-         Financial Intelligence Layer
+               
+                 
+  ↓
+Financial Intelligence Layer
     - Market Price Analysis
     - Price Change Calculation
     - Volatility Analysis
     - Sentiment Combination
-                 ↓
-          Reporting System
+               
+  
+  ↓
+ Reporting System
     - JSON Report
     - CSV Export
     - Logging System
