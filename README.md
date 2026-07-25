@@ -30,7 +30,7 @@ This project builds an end-to-end AI pipeline capable of:
 The system is designed as a foundation for financial research, quantitative analysis, and AI-powered market monitoring.
 ---
 # System Architectur
-                Data Sources
+  Data Sources
     ┌────────────┬────────────┬────────────┐
     │            │            │            │
  X/Twitter    Reddit      NewsAPI     Market Data
