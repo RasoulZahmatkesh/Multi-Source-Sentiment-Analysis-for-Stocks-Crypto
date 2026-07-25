@@ -1,6 +1,6 @@
 # Multi-Source Sentiment Analysis for Stocks & Crypto
 
-### The project (file) name has been renamed from sentiment analysis of financial news and tweet to Multi-Source Sentiment Analysis for Stocks & Crypto 
+### Implemented a configurable Transformer-based NLP pipeline supporting multiple sentiment models including FinBERT and RoBERTa with GPU acceleration.
 
 # 📊 Multi-Source Sentiment Analysis for Stocks & Cryptocurrencies
 
