@@ -7,7 +7,7 @@
 This project implements a **multi-source sentiment analysis engine** that analyzes public opinion from social media and news sources and combines it with **financial market data** for both **stocks** and **cryptocurrencies**.
 
 
-```markdown
+markdown
 # Financial AI Sentiment Intelligence System
 
 A Transformer-based multi-source financial sentiment analysis system for stocks and cryptocurrencies.
@@ -38,7 +38,6 @@ The system is designed as a foundation for financial research, quantitative anal
 # System Architecture
 
 
-```
 
 ```
                 Data Sources
