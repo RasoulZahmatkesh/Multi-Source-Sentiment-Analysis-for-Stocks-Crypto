@@ -6,9 +6,6 @@
 
 This project implements a **multi-source sentiment analysis engine** that analyzes public opinion from social media and news sources and combines it with **financial market data** for both **stocks** and **cryptocurrencies**.
 
-برای GitHub بهتر است README فقط توضیح کد نباشد؛ باید مثل مستندات یک پروژه مهندسی ML نوشته شود: **هدف پروژه، معماری، تکنولوژی‌ها، Pipeline، نحوه اجرا، خروجی‌ها، محدودیت‌ها و مسیر توسعه آینده**.
-
-متن زیر آماده قرار دادن در فایل `README.md` است.
 
 ```markdown
 # Financial AI Sentiment Intelligence System
