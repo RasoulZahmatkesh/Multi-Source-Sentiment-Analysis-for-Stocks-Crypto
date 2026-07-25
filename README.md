@@ -239,7 +239,7 @@ json
 # Installation
 ## Clone Repository
 
-git clone https://github.com/username/financial-ai-sentiment.git
+git clone https://github.com/RasoulZahmatkesh/financial-ai-sentiment.git
 cd financial-ai-sentiment
 
 ---
