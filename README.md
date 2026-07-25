@@ -35,6 +35,8 @@ The system is designed as a foundation for financial research, quantitative anal
   Data Sources
     ┌────────────┬────────────┬────────────┐
     │            │            │            │
+    │            │            │            │
+    │            │            │            │
  X/Twitter    Reddit      NewsAPI     Market Data
     │            │            │            │
     └────────────┴────────────┴────────────┘
