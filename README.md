@@ -1,4 +1,4 @@
-# Multi-Source Sentiment Analysis for Stocks & Crypto
+# Multi-Source Sentiment Analysis for Stocks & Cryptocurrency
 
 ### Implemented a configurable Transformer-based NLP pipeline supporting multiple sentiment models including FinBERT and RoBERTa with GPU acceleration.
 
