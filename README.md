@@ -49,6 +49,7 @@ The system is designed as a foundation for financial research, quantitative anal
     - Duplicate Filtering
                  
   ↓
+  
   NLP Intelligence Layer
     Transformer Models
     - FinBERT
@@ -58,6 +59,7 @@ The system is designed as a foundation for financial research, quantitative anal
                
                  
    ↓
+   
   Sentiment Analysis Engine
     - Positive Classification
     - Neutral Classification
@@ -66,7 +68,8 @@ The system is designed as a foundation for financial research, quantitative anal
                
                  
   ↓
-Financial Intelligence Layer
+  
+ Financial Intelligence Layer
     - Market Price Analysis
     - Price Change Calculation
     - Volatility Analysis
@@ -74,6 +77,7 @@ Financial Intelligence Layer
                
   
   ↓
+  
  Reporting System
     - JSON Report
     - CSV Export
