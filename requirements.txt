@@ -28,3 +28,29 @@ matplotlib>=3.7.0
 # HTTP & utils
 requests>=2.31.0
 tqdm>=4.66.0
+
+# Core
+python-dotenv
+pandas
+numpy
+
+# Deep Learning
+torch
+transformers
+accelerate
+
+# NLP
+sentencepiece
+tokenizers
+
+# Data Sources
+praw
+newsapi-python
+snscrape
+
+# Financial Data
+yfinance
+
+# Utilities
+requests
+tqdm
