@@ -240,6 +240,7 @@ json
 ## Clone Repository
 
 git clone https://github.com/RasoulZahmatkesh/financial-ai-sentiment.git
+
 cd financial-ai-sentiment
 
 ---
